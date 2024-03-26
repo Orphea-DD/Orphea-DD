@@ -1,6 +1,6 @@
 +++
 author = "Ding Ding"
-title = "Footpring"
+title = "Footprints"
 date = "2024-03-26"
 description = " animation is on the way"
 tags = [
@@ -20,6 +20,6 @@ useMath = false
 
 [map](./bubbles.html)
 
-!![bubble chart](./bubbles.html)
+[bubble chart](./bubbles.html)
 
-!![bubble image](./bubbles.png)
+![bubble image](./bubbles.jpg)
