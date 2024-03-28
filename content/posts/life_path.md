@@ -21,4 +21,8 @@ useMath = false
 
 [bubble chart](./bubbles.html)
 
+
+[map](./path.html)
+
+
 [bubble image](./bubbles.jpg)
