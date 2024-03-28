@@ -18,7 +18,6 @@ externalJsDownload = []
 useMath = false
 +++
 
-[map](./path.html)
 
 [bubble chart](./bubbles.html)
 
