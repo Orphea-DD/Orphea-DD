@@ -2,17 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>title</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Footprints</title>
+      <link>http://localhost:1313/posts/life_path/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/life_path/</guid>
+      <description>map&#xA;bubble chart</description>
+    </item>
+    <item>
+      <title>furture of NZ</title>
+      <link>http://localhost:1313/draft/furthur-of-nz/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/draft/furthur-of-nz/</guid>
+      <description>date　:2024 Feb 12&#xA;开坑开坑&#xA;现在想想自从来纽西兰就没写过任何东西。前几天回忆起二十来岁这几年几乎都是好景不长，刚爬到山顶没多久就跌落谷底。 这实在是太过于消磨激情了，曾经神采奕奕的双眼变得黯淡无光，曾几何时义愤填膺踌躇满志变成现在的波澜不惊。 当意识到曾经本就不多的美好回忆都是建立在痛苦上的海市蜃楼和棉花糖一样的时候，很难对自己的过去有什么认同感，更忧伤的事情是脱离过去期待未来。不过这些牢骚放到别的篇里面。&#xA;这篇把之前想过的坑都挖一遍（能不能填完就另说了） 行文和找资料方面可能会受最近写论文的影响，draft部分把有的没的都记录下来，之后再总结个精炼的版本。&#xA;副标题 近代民族主义 从拿破仑时代开始，新兴的以民族主义国家在战争时期的动员与和平时期的发展中都展现出了强大力量，当然也有滑向极端的风险。非民族主义国家比如南斯拉夫，沙俄，奥匈帝国纷纷解体。 本节主要搜罗整理历史中民族主义的由来以及在一些重要节点的作用。现在能想到的几个有二战的德国日本和中华民国，美利坚的民族认同感形成过程 纽西兰在我看来距离国家认同感还差得很远，民族主义在当今的小国发展中有多大分量。 澳洲的近代转变 澳洲曾经是英联邦中的急先锋，国旗上的那几个星星也代表了这个国家曾经是多么的引以为傲。但是冷战时期他们貌似调整了自我定位，之后整理一波澳洲的发家史。 澳洲是纽西兰在这个世界上唯一的邻居，而纽西兰到今天为止在自我认知这方面还在乐此不疲地闲扯蛋 亚洲四小龙的崛起 小国在二战之后想要在全球供应链上占据自己的一席之地还是相当困难，整理一波这四个地方是怎么从穷得叮当响到现在至少混得还可以。 小国的政治 小国没啥容错性，尤其是出生点在一些四战之地，二战前波兰走错一步就把自己玩进去了，以色列，南韩，台湾，都坐在煤气罐上，他们非常需要政治人才甚至政治天才。在我看来所有领域最难研究的就是人性，最稀缺的人才就是政治人才。需要一定历史积累的政党，需要一定的人口基数。 这一节我找找那些在关键的历史路口小国是怎么做出决策的，又导致了什么结果。 要是投胎到北欧或者纽西兰这种出生点还算幸运， 但这又是纽西兰的不幸，这个太年轻幼稚了&#xA;政党，民族性格与国家走向（或许还有更多） 不是都说毛熊在斯拉夫人的外皮下是鞑靼人的血统吗？这节其实主要想的是中国大陆以后何去何从，当年苏联穿着共产主义的小背心大炼钢铁，同时穿着毛熊民族性的皮大衣四处搞扩张。同样的，中国大陆一边炼钢一边走元明清的极权和斗争。民族性格这种东西我没法分析纽西兰，这国家连个像样的民族文化都没有。这节单纯是吐槽，中国会何去何从。 这部分坑随时有被我丢掉的可能 纽西兰从哪来，到哪去 将真我感觉纽西兰还要种好一会的地，上百年也说不定，傻乐傻乐的是一种幸福，有时候活在童话里也不是什么好事。靠天吃饭的农业，水半球中心的地理位置，没有历史，没有民族认同感，没有政治积累，白左那放弃大脑用心治理的毛病倒是没少学。 这一节我打算找找几个作参照的国家历史和纽西兰本地历史对比一下。瑞典， 现实感与一厢情愿 随便吐槽的一节，国家层面拿捏不住，一不留神就落入了计划经济和市场经济的深坑中。还是从个人角度总结一下个人经验，理想是要有的，现实感也是要有的，有原则的同时也要务实。同样是做人生规划， 目前没想好怎么下手，硬去堆例子感觉不可取。 </description>
+    </item>
+    <item>
+      <title>title</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +1300</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>认知、记忆和表达形式</title>
+      <link>http://localhost:1313/posts/essay-cognition-memory-and-ways-of-expression/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/essay-cognition-memory-and-ways-of-expression/</guid>
+      <description>May 6th 2021 最近划水摸鱼的时候接触了古典音乐，在于同道中人交流是有一丢丢的感悟和心得，不觉得联想到之前关于认知形式的思考，便在此总结梳理一番。 这应该归属于精神学科的范畴，”认知形式“这种说法其实并不严谨，但碍于学识上的限制，我也只能暂时放这么个词在对应位置上。先从音乐中谈起。 古典音乐在之前的工作生活节奏里显得格格不入，所以平日里更多听的是电子和流行音乐，更多的是中意其中的歌词，当然其中的信息量相较于古典音乐就很可怜了。我之前并不了解这些音乐家的背景身世，但是从他们的作品中能感受到性情和当时的情感。这当然因人而异，比如我从肖邦的作品里听到的是压抑，Beethoven喜忧都有一种大开大合的感觉，Paganini是一种灵活和轻窕。印象最深的是Schubert Serenade，我能想到那片一望无际的湖，深夜的天空和幽深的湖底泛出柔和的黑色和蓝色，少了未知和恐惧，剩下好奇带来的向往和一种安宁惬意；人躺在湖上的一叶小船上，那是一种被水托举着的感觉，被造物主捧在手心里的感觉。 接下来随之而来就有问题了，我个人对于不同创作者的作品中获取的信息都各不相同，不同人从音乐作品中获取的信息显然千差万别，不只是古典音乐，这个世界有声音图像文字符号等等，我们是以何种方式理解认知这一切的，记忆是什么样子的，我们又是如何表达出来的。&#xA;May 7th 继续划水ing 这方面的信息实在太少，我只能从自身分析，或许时不时冒出几句”有个朋友如何怎样”。即便如此，我对于自身的认识也并非坚信不疑。 可能有些奇怪，我的认识和记忆最原子的形式是”感觉”，并非画面，也不是图像。比如说听古典音乐的时候我将一段段音频转变为一种特定的感觉，这种感觉异常的详细和丰富。之前在大学期间曾经蹭过一次学校提供的交响乐门票，其中有一段演奏是Prokofiev的Romeo and Juliet, Ballet, Op.64:Montagues And Capulets。时隔多年再度听到时我是靠感觉（那种紧张，窈窕，懵懂和羞涩）而非旋律或是作者名字之类与记忆中的音乐会相匹配的。 除此之外，我对于声音的记忆也远强于文字符号，记得中学的时候被要求背诵英语课文，我自己朗读一遍然后进行录音，听几遍就能背下几百字的文章，但是如果要通过抄写，那对我来说是一场灾难。不幸的是在语文这门学科上我一直承受这种灾难。 音乐家通过图像，作曲家通过声音，文人墨客善于运用语言文字来表达信息。作为众多普通人，我只能通过纯粹的文字或者描绘一幅画面去表达信息，但是我很清楚地知道这些信息在脑海中并非通过文字符号或是画面存在。还记得第一次失恋的时候做过一个梦，我倚靠在一棵枯树旁，一切在一片沼泽里渐渐下沉，这片沼泽却并不是由泥泞组成，而是一种似乎可以将人蒸发的炎热和干涸。其实我的梦并没有这些画面或声音，只是一些纯粹的感觉，我没用办法将这些感觉用直接的办法表现出来只能具像化成为一幅画面，然后用语言描述出来。不过有意思的是每次试图描绘这个梦的时候浮现出来的都是同一个场景。&#xA;May 10th 感到这个坑一会半会填不完了，其实最大的问题是根本不知道怎么样算填完。既然如此就再挖两个坑，一个是逻辑语言描述这种认知的可能性，还有一个是孩童时期关于这方面的探索。 从这个方面探究不同人的认知形式应该是一个很有意思的课题，一个人在某方面的认知能力越丰富似乎在另一方面越木讷甚至有缺陷。对此我们如何去认识，有没有必要特别在意，怎么去应对。最后吐槽一下现在的教育，孔夫子当年说“因材施教”的时候不知道是否考虑到这些东西，再看看现在。</description>
+    </item>
     <item>
       <title></title>
-      <link>https://example.org/posts/second/</link>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    <item>
+      <title>Essay</title>
+      <link>http://localhost:1313/posts/essay/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/essay/</guid>
+      <description>夕阳盖上被子&#xA;星空荧光的四件套&#xA;呼噜噜地睡&#xA;街灯困了，挠了挠头，帽子亮了&#xA;小狗的肉垫，哒哒哒，带着它回家&#xA;水怕黑，紧张地挤在一起，成了冰&#xA;回家的人儿太心切阿&#xA;注意着小狗，没看见冰&#xA;呲遛，结结实实躺进了大地的怀抱&#xA;街灯晃明了眼&#xA;心想，是灯映亮了天？&#xA;爬起来拍拍土，回家</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/life_path/bubbles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/second/</guid>
-      <description>second </description>
+      <guid>http://localhost:1313/posts/life_path/bubbles/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/life_path/path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/life_path/path/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>

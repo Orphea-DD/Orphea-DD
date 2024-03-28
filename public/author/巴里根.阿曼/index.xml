@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>巴里根.阿曼 on title</title>
+    <link>http://localhost:1313/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/</link>
+    <description>Recent content in 巴里根.阿曼 on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essay</title>
+      <link>http://localhost:1313/posts/essay/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/essay/</guid>
+      <description>夕阳盖上被子&#xA;星空荧光的四件套&#xA;呼噜噜地睡&#xA;街灯困了，挠了挠头，帽子亮了&#xA;小狗的肉垫，哒哒哒，带着它回家&#xA;水怕黑，紧张地挤在一起，成了冰&#xA;回家的人儿太心切阿&#xA;注意着小狗，没看见冰&#xA;呲遛，结结实实躺进了大地的怀抱&#xA;街灯晃明了眼&#xA;心想，是灯映亮了天？&#xA;爬起来拍拍土，回家</description>
+    </item>
+  </channel>
+</rss>

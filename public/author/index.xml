@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on title</title>
-    <link>https://example.org/author/</link>
+    <link>http://localhost:1313/author/</link>
     <description>Recent content in Author on title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ding Ding</title>
+      <link>http://localhost:1313/author/ding-ding/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/ding-ding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Authors</title>
+      <link>http://localhost:1313/author/hugo-authors/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/hugo-authors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>巴里根.阿曼</title>
+      <link>http://localhost:1313/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
