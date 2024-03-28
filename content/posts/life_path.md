@@ -22,4 +22,4 @@ useMath = false
 
 [bubble chart](./bubbles.html)
 
-![bubble image](./bubbles.jpg)
+[bubble image](./bubbles.jpg)
