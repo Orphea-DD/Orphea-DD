@@ -1,0 +1,810 @@
+{
+    "name": "Motorcycles",
+    "children": [
+        {
+            "name": "APRILIA",
+            "children": [
+                {
+                    "name": "RS660",
+                    "children": [],
+                    "value": 23
+                }
+            ]
+        },
+        {
+            "name": "BENELLI",
+            "children": [
+                {
+                    "name": "502C",
+                    "children": [],
+                    "value": 32
+                },
+                {
+                    "name": "LEONCINO",
+                    "children": [],
+                    "value": 22
+                },
+                {
+                    "name": "TNT",
+                    "children": [
+                        {
+                            "name": "135",
+                            "value": 28
+                        }
+                    ]
+                },
+                {
+                    "name": "TRK",
+                    "children": [
+                        {
+                            "name": "502",
+                            "value": 21
+                        },
+                        {
+                            "name": "502 X",
+                            "value": 33
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BMW",
+            "children": [
+                {
+                    "name": "G310",
+                    "children": [
+                        {
+                            "name": "R",
+                            "value": 44
+                        }
+                    ]
+                },
+                {
+                    "name": "R1250",
+                    "children": [
+                        {
+                            "name": "GS",
+                            "value": 43
+                        },
+                        {
+                            "name": "GS ADVENTURE",
+                            "value": 26
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CFMOTO",
+            "children": [
+                {
+                    "name": "300SR",
+                    "children": [],
+                    "value": 24
+                }
+            ]
+        },
+        {
+            "name": "DUCATI",
+            "children": [
+                {
+                    "name": "MONSTER",
+                    "children": [
+                        {
+                            "name": "M 659",
+                            "value": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "MULTISTRADA",
+                    "children": [
+                        {
+                            "name": "MTS 950S",
+                            "value": 29
+                        },
+                        {
+                            "name": "V4 S",
+                            "value": 37
+                        }
+                    ]
+                },
+                {
+                    "name": "SUPERBIKE",
+                    "children": [
+                        {
+                            "name": "PANIGALE V2",
+                            "value": 45
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HARLEY DAVIDSON",
+            "children": [
+                {
+                    "name": "REVOLUTIONMAX",
+                    "children": [
+                        {
+                            "name": "21 PAN AMERICA SP",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "name": "SOFTAIL",
+                    "children": [
+                        {
+                            "name": "21 BREAKOUT 114",
+                            "value": 43
+                        },
+                        {
+                            "name": "21 FAT BOY 114",
+                            "value": 32
+                        },
+                        {
+                            "name": "21 LOW RIDER S",
+                            "value": 71
+                        },
+                        {
+                            "name": "21 SPORT GLIDE",
+                            "value": 97
+                        },
+                        {
+                            "name": "21 STREET BOB 114",
+                            "value": 52
+                        }
+                    ]
+                },
+                {
+                    "name": "TOURING",
+                    "children": [
+                        {
+                            "name": "21 STREET GLIDE SP",
+                            "value": 37
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HONDA",
+            "children": [
+                {
+                    "name": "CB",
+                    "children": [
+                        {
+                            "name": "500XA",
+                            "value": 54
+                        },
+                        {
+                            "name": "650",
+                            "value": 32
+                        }
+                    ]
+                },
+                {
+                    "name": "CBR",
+                    "children": [
+                        {
+                            "name": "500",
+                            "value": 26
+                        },
+                        {
+                            "name": "650",
+                            "value": 62
+                        }
+                    ]
+                },
+                {
+                    "name": "CMX",
+                    "children": [
+                        {
+                            "name": "500",
+                            "value": 159
+                        }
+                    ]
+                },
+                {
+                    "name": "CRF",
+                    "children": [
+                        {
+                            "name": "300LA",
+                            "value": 48
+                        },
+                        {
+                            "name": "300LRA RALLY",
+                            "value": 45
+                        }
+                    ]
+                },
+                {
+                    "name": "CT",
+                    "children": [
+                        {
+                            "name": "125A",
+                            "value": 66
+                        }
+                    ]
+                },
+                {
+                    "name": "GLC",
+                    "children": [
+                        {
+                            "name": "150SH",
+                            "value": 135
+                        }
+                    ]
+                },
+                {
+                    "name": "MSX",
+                    "children": [
+                        {
+                            "name": "125A",
+                            "value": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "NSC",
+                    "children": [
+                        {
+                            "name": "110L",
+                            "value": 44
+                        }
+                    ]
+                },
+                {
+                    "name": "XR",
+                    "children": [
+                        {
+                            "name": "150L",
+                            "value": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Z",
+                    "children": [
+                        {
+                            "name": "125MA",
+                            "value": 28
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HUSQVARNA",
+            "children": [
+                {
+                    "name": "401",
+                    "children": [
+                        {
+                            "name": "SVARTPILEN",
+                            "value": 39
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "INDIAN",
+            "children": [
+                {
+                    "name": "SCOUT",
+                    "children": [
+                        {
+                            "name": "BOBBER",
+                            "value": 55
+                        }
+                    ],
+                    "value": 32
+                }
+            ]
+        },
+        {
+            "name": "KAWASAKI",
+            "children": [
+                {
+                    "name": "EN",
+                    "children": [
+                        {
+                            "name": "650",
+                            "value": 93
+                        }
+                    ]
+                },
+                {
+                    "name": "ER",
+                    "children": [
+                        {
+                            "name": "400DM",
+                            "value": 52
+                        },
+                        {
+                            "name": "650K LAM",
+                            "value": 23
+                        }
+                    ]
+                },
+                {
+                    "name": "EX",
+                    "children": [
+                        {
+                            "name": "400GMFNN",
+                            "value": 95
+                        },
+                        {
+                            "name": "400GNFNN",
+                            "value": 23
+                        },
+                        {
+                            "name": "650 LAMS",
+                            "value": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "KL",
+                    "children": [
+                        {
+                            "name": "650N",
+                            "value": 29
+                        }
+                    ]
+                },
+                {
+                    "name": "ZR",
+                    "children": [
+                        {
+                            "name": "900",
+                            "value": 31
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KTM",
+            "children": [
+                {
+                    "name": "1290",
+                    "children": [
+                        {
+                            "name": "ADVENTURE R",
+                            "value": 43
+                        },
+                        {
+                            "name": "SUPERDUKE R",
+                            "value": 27
+                        }
+                    ]
+                },
+                {
+                    "name": "200",
+                    "children": [
+                        {
+                            "name": "DUKE",
+                            "value": 68
+                        }
+                    ]
+                },
+                {
+                    "name": "300",
+                    "children": [
+                        {
+                            "name": "EXC",
+                            "value": 28
+                        }
+                    ]
+                },
+                {
+                    "name": "350",
+                    "children": [
+                        {
+                            "name": "EXCF",
+                            "value": 43
+                        }
+                    ]
+                },
+                {
+                    "name": "390",
+                    "children": [
+                        {
+                            "name": "ADVENTURE",
+                            "value": 101
+                        },
+                        {
+                            "name": "DUKE",
+                            "value": 130
+                        }
+                    ]
+                },
+                {
+                    "name": "500",
+                    "children": [
+                        {
+                            "name": "EXC",
+                            "value": 47
+                        }
+                    ]
+                },
+                {
+                    "name": "690",
+                    "children": [
+                        {
+                            "name": "ENDURO R",
+                            "value": 48
+                        }
+                    ]
+                },
+                {
+                    "name": "890",
+                    "children": [
+                        {
+                            "name": "ADVENTURE R",
+                            "value": 99
+                        },
+                        {
+                            "name": "DUKE R",
+                            "value": 32
+                        }
+                    ]
+                },
+                {
+                    "name": "RC",
+                    "children": [
+                        {
+                            "name": "390",
+                            "value": 33
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ROYAL ENFIELD",
+            "children": [
+                {
+                    "name": "CLASSIC",
+                    "children": [],
+                    "value": 140
+                },
+                {
+                    "name": "CONTINENTAL",
+                    "children": [
+                        {
+                            "name": "GT 650",
+                            "value": 57
+                        }
+                    ]
+                },
+                {
+                    "name": "HIMALAYAN",
+                    "children": [],
+                    "value": 128
+                },
+                {
+                    "name": "INTERCEPTOR",
+                    "children": [
+                        {
+                            "name": "650",
+                            "value": 125
+                        }
+                    ]
+                },
+                {
+                    "name": "METEOR",
+                    "children": [
+                        {
+                            "name": "METEOR 350",
+                            "value": 98
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SUZUKI",
+            "children": [
+                {
+                    "name": "DL1050",
+                    "children": [
+                        {
+                            "name": "RCM0 V-STROM 1050XT",
+                            "value": 32
+                        }
+                    ]
+                },
+                {
+                    "name": "DL650",
+                    "children": [
+                        {
+                            "name": "V-STROM 650AU LAMS",
+                            "value": 31
+                        }
+                    ]
+                },
+                {
+                    "name": "DR-Z400",
+                    "children": [
+                        {
+                            "name": "E",
+                            "value": 70
+                        },
+                        {
+                            "name": "SUPER MOTARD",
+                            "value": 63
+                        }
+                    ]
+                },
+                {
+                    "name": "DR650SE",
+                    "children": [],
+                    "value": 358
+                },
+                {
+                    "name": "GN125H",
+                    "children": [],
+                    "value": 179
+                },
+                {
+                    "name": "GS",
+                    "children": [
+                        {
+                            "name": "DF GIXXER",
+                            "value": 34
+                        },
+                        {
+                            "name": "FDF GIXXER",
+                            "value": 23
+                        },
+                        {
+                            "name": "FDFX GIXXER",
+                            "value": 28
+                        },
+                        {
+                            "name": "X250FRLL9",
+                            "value": 250
+                        },
+                        {
+                            "name": "X250FRLZL9",
+                            "value": 36
+                        }
+                    ]
+                },
+                {
+                    "name": "LS650",
+                    "children": [
+                        {
+                            "name": "B BOULEVARD S40B",
+                            "value": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "SV650A",
+                    "children": [
+                        {
+                            "name": "ABS",
+                            "value": 38
+                        }
+                    ]
+                },
+                {
+                    "name": "SV650AU",
+                    "children": [
+                        {
+                            "name": "ABS LAMS",
+                            "value": 72
+                        }
+                    ]
+                },
+                {
+                    "name": "UK",
+                    "children": [
+                        {
+                            "name": "110NE",
+                            "value": 67
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TOTALS",
+            "children": []
+        },
+        {
+            "name": "TRIUMPH",
+            "children": [
+                {
+                    "name": "ROCKET",
+                    "children": [
+                        {
+                            "name": "3 GT YJ1",
+                            "value": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "SPEED TRIPLE",
+                    "children": [
+                        {
+                            "name": "RS 1200",
+                            "value": 34
+                        }
+                    ]
+                },
+                {
+                    "name": "STREET TRIPLE",
+                    "children": [
+                        {
+                            "name": "RS",
+                            "value": 36
+                        }
+                    ]
+                },
+                {
+                    "name": "TIGER",
+                    "children": [
+                        {
+                            "name": "900 GT PRO CR7",
+                            "value": 35
+                        }
+                    ]
+                },
+                {
+                    "name": "TRIDENT",
+                    "children": [
+                        {
+                            "name": "660 LAM",
+                            "value": 87
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "VESPA",
+            "children": [
+                {
+                    "name": "GTS",
+                    "children": [
+                        {
+                            "name": "150LC",
+                            "value": 26
+                        },
+                        {
+                            "name": "300 SUPER TECH",
+                            "value": 31
+                        },
+                        {
+                            "name": "300 SUPERSPORT HPE",
+                            "value": 40
+                        }
+                    ]
+                },
+                {
+                    "name": "PRIMAVERA",
+                    "children": [
+                        {
+                            "name": "150 IGET",
+                            "value": 55
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YAMAHA",
+            "children": [
+                {
+                    "name": "CZD300A",
+                    "children": [
+                        {
+                            "name": "L",
+                            "value": 23
+                        }
+                    ]
+                },
+                {
+                    "name": "MT03LA",
+                    "children": [
+                        {
+                            "name": "L",
+                            "value": 48
+                        },
+                        {
+                            "name": "M",
+                            "value": 71
+                        }
+                    ]
+                },
+                {
+                    "name": "MT07LA",
+                    "children": [
+                        {
+                            "name": "L",
+                            "value": 63
+                        },
+                        {
+                            "name": "M",
+                            "value": 74
+                        }
+                    ]
+                },
+                {
+                    "name": "MT09A",
+                    "children": [
+                        {
+                            "name": "M",
+                            "value": 37
+                        },
+                        {
+                            "name": "SPM",
+                            "value": 33
+                        }
+                    ]
+                },
+                {
+                    "name": "MT09TRASP",
+                    "children": [
+                        {
+                            "name": "M",
+                            "value": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "MTM660LA",
+                    "children": [
+                        {
+                            "name": "M",
+                            "value": 25
+                        }
+                    ]
+                },
+                {
+                    "name": "TW200",
+                    "children": [
+                        {
+                            "name": "K",
+                            "value": 24
+                        }
+                    ]
+                },
+                {
+                    "name": "YS125A",
+                    "children": [
+                        {
+                            "name": "L",
+                            "value": 43
+                        }
+                    ]
+                },
+                {
+                    "name": "YZF-R15",
+                    "children": [
+                        {
+                            "name": "L",
+                            "value": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "YZF-R3A",
+                    "children": [
+                        {
+                            "name": "M",
+                            "value": 95
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

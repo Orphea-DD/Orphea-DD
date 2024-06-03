@@ -4,16 +4,23 @@
     <title>Visualization on title</title>
     <link>http://localhost:1313/tags/visualization/</link>
     <description>Recent content in Visualization on title</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motorcycle</title>
+      <link>http://localhost:1313/posts/assignment_motorcycle/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/assignment_motorcycle/</guid>
+      <description>MotoGP Ranking&#xA;New Zealand Motorcycle Sales&#xA;NZ motor market</description>
+    </item>
     <item>
       <title>Footprints</title>
       <link>http://localhost:1313/posts/life_path/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/life_path/</guid>
-      <description>map&#xA;bubble chart</description>
+      <description>bubble chart&#xA;map&#xA;bubble image</description>
     </item>
   </channel>
 </rss>

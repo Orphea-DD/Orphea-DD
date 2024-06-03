@@ -1,0 +1,872 @@
+{
+    "name": "Motorcycles",
+    "image": "images/27.jpg",
+    "description": "Overview of various motorcycle brands and their models.",
+    "children": [
+        {
+            "name": "Honda",
+            "description": "Honda motorcycles are known for their reliability and innovation.",
+            "children": [
+                {
+                    "name": "Mopeds and light motorcycles",
+                    "children": [
+                        {
+                            "name": "Super Cub",
+                            "children": [
+                                {
+                                    "name": "Super Cub C125 (2024)",
+                                    "details": {
+                                        "speed": "95 km/h",
+                                        "engineCapacity": "124cc",
+                                        "power": "9.7 HP",
+                                        "torque": "10.4 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "Super Cub C110",
+                                    "details": {
+                                        "speed": "85 km/h",
+                                        "engineCapacity": "109cc",
+                                        "power": "8.0 HP",
+                                        "torque": "8.5 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CT",
+                            "children": [
+                                {
+                                    "name": "CT90",
+                                    "details": {
+                                        "speed": "80 km/h",
+                                        "engineCapacity": "89cc",
+                                        "power": "7.6 HP",
+                                        "torque": "8.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "CT110",
+                                    "details": {
+                                        "speed": "85 km/h",
+                                        "engineCapacity": "105cc",
+                                        "power": "7.8 HP",
+                                        "torque": "8.5 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "CT125",
+                                    "details": {
+                                        "speed": "100 km/h",
+                                        "engineCapacity": "124cc",
+                                        "power": "9.0 HP",
+                                        "torque": "10.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Scooters",
+                    "children": [
+                        {
+                            "name": "PCX",
+                            "children": [
+                                {
+                                    "name": "PCX150",
+                                    "details": {
+                                        "speed": "110 km/h",
+                                        "engineCapacity": "149cc",
+                                        "power": "14.5 HP",
+                                        "torque": "13.9 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "PCX125",
+                                    "details": {
+                                        "speed": "100 km/h",
+                                        "engineCapacity": "124cc",
+                                        "power": "12.0 HP",
+                                        "torque": "11.8 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dual-Sport Bikes",
+                    "children": [
+                        {
+                            "name": "Africa Twin",
+                            "children": [
+                                {
+                                    "name": "XRV650 Africa Twin",
+                                    "details": {
+                                        "speed": "160 km/h",
+                                        "engineCapacity": "647cc",
+                                        "power": "57.5 HP",
+                                        "torque": "58.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                },
+                                {
+                                    "name": "XRV750 Africa Twin",
+                                    "details": {
+                                        "speed": "175 km/h",
+                                        "engineCapacity": "742cc",
+                                        "power": "61.0 HP",
+                                        "torque": "64.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                },
+                                {
+                                    "name": "CRF1000L Africa Twin",
+                                    "details": {
+                                        "speed": "190 km/h",
+                                        "engineCapacity": "998cc",
+                                        "power": "94.0 HP",
+                                        "torque": "98.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "Parallel-twin"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Retro Bikes",
+                    "children": [
+                        {
+                            "name": "CB",
+                            "children": [
+                                {
+                                    "name": "CB750",
+                                    "details": {
+                                        "speed": "200 km/h",
+                                        "engineCapacity": "736cc",
+                                        "power": "67.0 HP",
+                                        "torque": "60.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Inline-four"
+                                    }
+                                },
+                                {
+                                    "name": "CB400",
+                                    "details": {
+                                        "speed": "160 km/h",
+                                        "engineCapacity": "399cc",
+                                        "power": "55.0 HP",
+                                        "torque": "39.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Inline-four"
+                                    }
+                                },
+                                {
+                                    "name": "CB1100",
+                                    "details": {
+                                        "speed": "190 km/h",
+                                        "engineCapacity": "1140cc",
+                                        "power": "88.0 HP",
+                                        "torque": "91.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Inline-four"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Off-Road Bikes",
+                    "children": [
+                        {
+                            "name": "CRF",
+                            "children": [
+                                {
+                                    "name": "CRF450R",
+                                    "details": {
+                                        "speed": "140 km/h",
+                                        "engineCapacity": "449cc",
+                                        "power": "53.0 HP",
+                                        "torque": "47.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "CRF250R",
+                                    "details": {
+                                        "speed": "120 km/h",
+                                        "engineCapacity": "249cc",
+                                        "power": "39.0 HP",
+                                        "torque": "27.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "CRF150R",
+                                    "details": {
+                                        "speed": "110 km/h",
+                                        "engineCapacity": "149cc",
+                                        "power": "23.5 HP",
+                                        "torque": "14.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "XR",
+                            "children": [
+                                {
+                                    "name": "XR650L",
+                                    "details": {
+                                        "speed": "160 km/h",
+                                        "engineCapacity": "644cc",
+                                        "power": "40.0 HP",
+                                        "torque": "52.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "XR400R",
+                                    "details": {
+                                        "speed": "145 km/h",
+                                        "engineCapacity": "397cc",
+                                        "power": "34.0 HP",
+                                        "torque": "33.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "XR250R",
+                                    "details": {
+                                        "speed": "125 km/h",
+                                        "engineCapacity": "249cc",
+                                        "power": "28.0 HP",
+                                        "torque": "23.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Touring Bikes",
+                    "children": [
+                        {
+                            "name": "Gold Wing",
+                            "children": [
+                                {
+                                    "name": "Gold Wing GL1000",
+                                    "details": {
+                                        "speed": "180 km/h",
+                                        "engineCapacity": "999cc",
+                                        "power": "80.0 HP",
+                                        "torque": "78.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Flat-four"
+                                    }
+                                },
+                                {
+                                    "name": "Gold Wing GL1100",
+                                    "details": {
+                                        "speed": "185 km/h",
+                                        "engineCapacity": "1085cc",
+                                        "power": "81.0 HP",
+                                        "torque": "85.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Flat-four"
+                                    }
+                                },
+                                {
+                                    "name": "Gold Wing GL1200",
+                                    "details": {
+                                        "speed": "190 km/h",
+                                        "engineCapacity": "1182cc",
+                                        "power": "94.0 HP",
+                                        "torque": "110.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Flat-four"
+                                    }
+                                },
+                                {
+                                    "name": "Gold Wing GL1500",
+                                    "details": {
+                                        "speed": "195 km/h",
+                                        "engineCapacity": "1520cc",
+                                        "power": "100.0 HP",
+                                        "torque": "150.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "6",
+                                        "engineLayout": "Flat-six"
+                                    }
+                                },
+                                {
+                                    "name": "Gold Wing GL1800",
+                                    "details": {
+                                        "speed": "200 km/h",
+                                        "engineCapacity": "1832cc",
+                                        "power": "118.0 HP",
+                                        "torque": "167.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "6",
+                                        "engineLayout": "Flat-six"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ST",
+                            "children": [
+                                {
+                                    "name": "ST1100",
+                                    "details": {
+                                        "speed": "220 km/h",
+                                        "engineCapacity": "1084cc",
+                                        "power": "100.0 HP",
+                                        "torque": "110.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                },
+                                {
+                                    "name": "ST1300",
+                                    "details": {
+                                        "speed": "230 km/h",
+                                        "engineCapacity": "1261cc",
+                                        "power": "126.0 HP",
+                                        "torque": "125.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Cruisers",
+                    "children": [
+                        {
+                            "name": "Rebel",
+                            "children": [
+                                {
+                                    "name": "Rebel 250",
+                                    "details": {
+                                        "speed": "120 km/h",
+                                        "engineCapacity": "234cc",
+                                        "power": "18.0 HP",
+                                        "torque": "16.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "Parallel-twin"
+                                    }
+                                },
+                                {
+                                    "name": "Rebel 300",
+                                    "details": {
+                                        "speed": "130 km/h",
+                                        "engineCapacity": "286cc",
+                                        "power": "27.0 HP",
+                                        "torque": "27.4 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "Rebel 500",
+                                    "details": {
+                                        "speed": "160 km/h",
+                                        "engineCapacity": "471cc",
+                                        "power": "46.0 HP",
+                                        "torque": "43.2 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "Parallel-twin"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Shadow",
+                            "children": [
+                                {
+                                    "name": "Shadow Spirit 750",
+                                    "details": {
+                                        "speed": "160 km/h",
+                                        "engineCapacity": "745cc",
+                                        "power": "44.0 HP",
+                                        "torque": "64.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                },
+                                {
+                                    "name": "Shadow Aero",
+                                    "details": {
+                                        "speed": "150 km/h",
+                                        "engineCapacity": "745cc",
+                                        "power": "44.0 HP",
+                                        "torque": "64.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                },
+                                {
+                                    "name": "Shadow Phantom",
+                                    "details": {
+                                        "speed": "145 km/h",
+                                        "engineCapacity": "745cc",
+                                        "power": "44.0 HP",
+                                        "torque": "64.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "CBR",
+                            "children": [
+                                {
+                                    "name": "CBR600RR",
+                                    "details": {
+                                        "speed": "250 km/h",
+                                        "engineCapacity": "599cc",
+                                        "power": "118.0 HP",
+                                        "torque": "66.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Inline-four"
+                                    }
+                                },
+                                {
+                                    "name": "CBR900RR Fireblade",
+                                    "details": {
+                                        "speed": "270 km/h",
+                                        "engineCapacity": "893cc",
+                                        "power": "128.0 HP",
+                                        "torque": "88.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "Inline-four"
+                                    }
+                                },
+                                {
+                                    "name": "CBR500",
+                                    "details": {
+                                        "speed": "190 km/h",
+                                        "engineCapacity": "471cc",
+                                        "power": "47.0 HP",
+                                        "torque": "43.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "Parallel-twin"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "NSR",
+                            "children": [
+                                {
+                                    "name": "NSR125",
+                                    "details": {
+                                        "speed": "145 km/h",
+                                        "engineCapacity": "124cc",
+                                        "power": "28.0 HP",
+                                        "torque": "18.0 Nm",
+                                        "strokeNumber": "2",
+                                        "cylinderNumber": "1",
+                                        "engineLayout": "Single"
+                                    }
+                                },
+                                {
+                                    "name": "NSR250",
+                                    "details": {
+                                        "speed": "210 km/h",
+                                        "engineCapacity": "249cc",
+                                        "power": "45.0 HP",
+                                        "torque": "28.0 Nm",
+                                        "strokeNumber": "2",
+                                        "cylinderNumber": "2",
+                                        "engineLayout": "V-twin"
+                                    }
+                                },
+                                {
+                                    "name": "NSR500",
+                                    "details": {
+                                        "speed": "320 km/h",
+                                        "engineCapacity": "499cc",
+                                        "power": "185.0 HP",
+                                        "torque": "112.0 Nm",
+                                        "strokeNumber": "2",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "VFR",
+                            "children": [
+                                {
+                                    "name": "VFR750F",
+                                    "details": {
+                                        "speed": "240 km/h",
+                                        "engineCapacity": "748cc",
+                                        "power": "105.0 HP",
+                                        "torque": "76.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                },
+                                {
+                                    "name": "VFR800 (Interceptor)",
+                                    "details": {
+                                        "speed": "245 km/h",
+                                        "engineCapacity": "782cc",
+                                        "power": "106.0 HP",
+                                        "torque": "75.1 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                },
+                                {
+                                    "name": "VFR1200F",
+                                    "details": {
+                                        "speed": "265 km/h",
+                                        "engineCapacity": "1237cc",
+                                        "power": "170.0 HP",
+                                        "torque": "129.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RC",
+                            "children": [
+                                {
+                                    "name": "RC30",
+                                    "details": {
+                                        "speed": "260 km/h",
+                                        "engineCapacity": "748cc",
+                                        "power": "118.0 HP",
+                                        "torque": "75.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                },
+                                {
+                                    "name": "RC45",
+                                    "details": {
+                                        "speed": "270 km/h",
+                                        "engineCapacity": "749cc",
+                                        "power": "120.0 HP",
+                                        "torque": "76.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                },
+                                {
+                                    "name": "RC213",
+                                    "details": {
+                                        "speed": "340 km/h",
+                                        "engineCapacity": "1000cc",
+                                        "power": "157.0 HP",
+                                        "torque": "102.0 Nm",
+                                        "strokeNumber": "4",
+                                        "cylinderNumber": "4",
+                                        "engineLayout": "V4"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "NR750",
+                            "details": {
+                                "speed": "260 km/h",
+                                "engineCapacity": "747cc",
+                                "power": "125.0 HP",
+                                "torque": "67.0 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Oval-piston V4"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yamaha",
+            "children": [
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "YZF-R1",
+                            "details": {
+                                "speed": "299 km/h",
+                                "engineCapacity": "998cc",
+                                "power": "197 HP",
+                                "torque": "112 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        },
+                        {
+                            "name": "YZF-R6",
+                            "details": {
+                                "speed": "262 km/h",
+                                "engineCapacity": "599cc",
+                                "power": "117 HP",
+                                "torque": "61.7 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Suzuki",
+            "children": [
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "GSX-R1000",
+                            "details": {
+                                "speed": "299 km/h",
+                                "engineCapacity": "999cc",
+                                "power": "199 HP",
+                                "torque": "117 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        },
+                        {
+                            "name": "GSX-R600",
+                            "details": {
+                                "speed": "260 km/h",
+                                "engineCapacity": "599cc",
+                                "power": "124 HP",
+                                "torque": "69.6 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kawasaki",
+            "children": [
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "Ninja ZX-10R",
+                            "details": {
+                                "speed": "299 km/h",
+                                "engineCapacity": "998cc",
+                                "power": "200 HP",
+                                "torque": "113.5 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        },
+                        {
+                            "name": "Ninja ZX-6R",
+                            "details": {
+                                "speed": "260 km/h",
+                                "engineCapacity": "636cc",
+                                "power": "127 HP",
+                                "torque": "70.8 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Harley-Davidson",
+            "children": [
+                {
+                    "name": "Cruisers",
+                    "children": [
+                        {
+                            "name": "Street Glide",
+                            "details": {
+                                "speed": "175 km/h",
+                                "engineCapacity": "1868cc",
+                                "power": "89 HP",
+                                "torque": "163 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "2",
+                                "engineLayout": "V-twin"
+                            }
+                        },
+                        {
+                            "name": "Iron 883",
+                            "details": {
+                                "speed": "170 km/h",
+                                "engineCapacity": "883cc",
+                                "power": "50 HP",
+                                "torque": "70 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "2",
+                                "engineLayout": "V-twin"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ducati",
+            "children": [
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "Panigale V4",
+                            "details": {
+                                "speed": "299 km/h",
+                                "engineCapacity": "1103cc",
+                                "power": "214 HP",
+                                "torque": "124 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "V4"
+                            }
+                        },
+                        {
+                            "name": "Monster 821",
+                            "details": {
+                                "speed": "225 km/h",
+                                "engineCapacity": "821cc",
+                                "power": "109 HP",
+                                "torque": "86 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "2",
+                                "engineLayout": "V-twin"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BMW",
+            "children": [
+                {
+                    "name": "Sport Bikes",
+                    "children": [
+                        {
+                            "name": "S1000RR",
+                            "details": {
+                                "speed": "299 km/h",
+                                "engineCapacity": "999cc",
+                                "power": "207 HP",
+                                "torque": "113 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "4",
+                                "engineLayout": "Inline-four"
+                            }
+                        },
+                        {
+                            "name": "G310R",
+                            "details": {
+                                "speed": "143 km/h",
+                                "engineCapacity": "313cc",
+                                "power": "34 HP",
+                                "torque": "28 Nm",
+                                "strokeNumber": "4",
+                                "cylinderNumber": "1",
+                                "engineLayout": "Single"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

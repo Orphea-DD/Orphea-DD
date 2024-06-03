@@ -1,7 +1,7 @@
 +++
 title = 'title'
 date = 2024-01-14T07:07:07+13:00
-draft = false
+
 +++
 
 # Introduction

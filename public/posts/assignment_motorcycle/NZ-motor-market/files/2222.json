@@ -1,0 +1,537 @@
+{
+    "name": "Motorcycle",
+    "image": "images/Gottlieb_Daimler_motorcycle_580x.jpeg",
+    "description": "'Motorcycle' means a motor vehicle running on two wheels or not more than three wheels when fitted with a sidecar, and includes a vehicle with motorcycle controls that is approved as a motorcycle by the Transport Agency, but does not include a moped.",
+    "children": [
+        {
+            "name": "Honda",
+            "image": "images/Honda_logo.svg",
+            "description": "Honda motorcycles known for reliability and performance",
+            "children": [
+                {
+                    "name": "sports bikes",
+                    "description": "High-performance motorcycles designed for speed and agility",
+                    "children": [
+                        {
+                            "name": "CBR500R",
+                            "image": "images/CBR500R.webp",
+                            "details": {
+                                "Engine Type": "8 Valve liquid cooled, inline twin cylinder, 4-stroke",
+                                "Displacement(CC)": 471,
+                                "Seat Height": "785mm",
+                                "Ground Clearance": "130mm",
+                                "Kerb Weight": "192kg",
+                                "Fuel Capacity": "17.1 Litres"
+                            }
+                        },
+                        {
+                            "name": "CBR650R",
+                            "image": "images/CBR650R.webp",
+                            "details": {
+                                "Engine Type": "Liquid-cooled 16 valve DOHC inline-4",
+                                "Displacement (CC)": 649,
+                                "Seat Height": "810mm",
+                                "Ground Clearance": "130mm",
+                                "Kerb Weight": "205kg",
+                                "Fuel Capacity": "15.4 litres"
+                            }
+                        },
+                        {
+                            "name": "CBR600RR",
+                            "image": "images/CBR600RR.webp",
+                            "details": {
+                                "Engine Type": "Liquid-cooled 4-stroke",
+                                "Displacement (CC)": 599,
+                                "Seat Height": "820mm",
+                                "Ground Clearance": "125mm",
+                                "Kerb Weight": "194kg",
+                                "Fuel Capacity": "18L"
+                            }
+                        },
+                        {
+                            "name": "CBR1000RR-R",
+                            "image": "images/CBR1000RR-R.webp",
+                            "details": {
+                                "Engine Type": "Liquid-cooled 4-stroke 16-valve DOHC inline-4",
+                                "Displacement (CC)": 1000,
+                                "Seat Height": "830mm",
+                                "Ground Clearance": "115mm",
+                                "Kerb Weight": "201kg",
+                                "Fuel Capacity": "16.1 litres"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "naked bikes",
+                    "description": "Bikes without fairings, offering a raw and minimalist design",
+                    "children": [
+                        {
+                            "name": "MSX125 Grom",
+                            "image": "images/GROM.webp",
+                            "details": {
+                                "Engine Type": "Air-cooled 4-stroke",
+                                "Displacement (CC)": 124,
+                                "Transmission": "5-Speed"
+                            }
+                        },
+                        {
+                            "name": "Monkey",
+                            "image": "images/MONKEY.webp",
+                            "details": {
+                                "Engine Type": "Air-cooled SOHC single-cylinder",
+                                "Displacement (CC)": 125,
+                                "Transmission": "4-speed"
+                            }
+                        },
+                        {
+                            "name": "CB750 Hornet",
+                            "image": "images/CB750.webp",
+                            "details": {
+                                "Engine Type": "Liquid-cooled OHC 4-stroke with 270° crank and uni-cam",
+                                "Displacement (CC)": 755,
+                                "Transmission": "6 speed Manual"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "scooters",
+                    "description": "Lightweight, fuel-efficient bikes designed for city commuting",
+                    "children": [
+                        {
+                            "name": "DIO NSC110",
+                            "image": "images/DIO NSC110.webp",
+                            "details": {
+                                "Engine Type": "Air-cooled OHC 2v single, 4 stroke",
+                                "Displacement (CC)": 108,
+                                "Transmission": "Continuously variable (v-matic)"
+                            }
+                        },
+                        {
+                            "name": "CT125 Hunter",
+                            "image": "images/CT125 Hunter.webp",
+                            "details": {
+                                "Engine Type": "Air cooled, 4-stroke",
+                                "Displacement (CC)": 125,
+                                "Transmission": "4-speed"
+                            }
+                        },
+                        {
+                            "name": "PCX160",
+                            "image": "images/PCX160.webp",
+                            "details": {
+                                "Engine Type": "Liquid Cooled, 4-stroke",
+                                "Displacement (CC)": 157,
+                                "Transmission": "CVT"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "touring bikes",
+                    "description": "Bikes designed for long-distance travel with comfort and storage in mind",
+                    "children": [
+                        {
+                            "name": "NT1100",
+                            "image": "images/NT1100.webp",
+                            "details": {
+                                "Engine Type": "liquid-cooled 4-stroke",
+                                "Displacement (CC)": 1084,
+                                "Transmission": "6 Speed Manual / 6 Speed DCT Auto"
+                            }
+                        },
+                        {
+                            "name": "CRF1100 Africa Twin Sports",
+                            "image": "images/CRF1100 Africa Twin Sports.webp",
+                            "details": {
+                                "Engine Type": "Liquid cooled unicam parallel twin cylinder, 4 stroke",
+                                "Displacement (CC)": 1084,
+                                "Transmission": "6-speed manual / 6 speed automatic DCT"
+                            }
+                        },
+                        {
+                            "name": "Goldwing",
+                            "image": "images/Goldwing.webp",
+                            "details": {
+                                "Displacement (CC)": 1833,
+                                "Transmission": "7-speed Dual Clutch Transmission"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Suzuki",
+            "image": "images/Suzuki_logo.svg",
+            "description": "Suzuki motorcycles known for their performance and engineering",
+            "children": [
+                {
+                    "name": "sport",
+                    "description": "High-performance motorcycles built for speed and agility",
+                    "children": [
+                        {
+                            "name": "HAYABUSA",
+                            "image": "/images/hayabusa.avif",
+                            "details": {
+                                "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 1340,
+                                "Ground Clearance (mm)": 125,
+                                "Seat Height (mm)": 800,
+                                "Fuel Tank Capacity (L)": 20
+                            }
+                        },
+                        {
+                            "name": "GSX-R1000R/ZA",
+                            "image": "/images/GSX1000.avif",
+                            "details": {
+                                "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 1000,
+                                "Ground Clearance (mm)": 130,
+                                "Seat Height (mm)": 825,
+                                "Curb Mass (kg)": 203,
+                                "Fuel Tank Capacity (L)": 16
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "street",
+                    "description": "Motorcycles designed for urban and suburban commuting",
+                    "children": [
+                        {
+                            "name": "GSX-S1000GX",
+                            "image": "/images/GSX-S1000.avif",
+                            "details": {
+                                "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 999,
+                                "Ground Clearance (mm)": 155,
+                                "Seat Height (mm)": 845,
+                                "Curb Mass (kg)": 232,
+                                "Fuel Tank Capacity (L)": 19
+                            }
+                        },
+                        {
+                            "name": "KATANA",
+                            "image": "/images/KATANA.webp",
+                            "details": {
+                                "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 999,
+                                "Ground Clearance (mm)": 140,
+                                "Seat Height (mm)": 825,
+                                "Curb Mass (kg)": 215,
+                                "Fuel Tank Capacity (L)": 12
+                            }
+                        },
+                        {
+                            "name": "GSX-8S",
+                            "image": "/images/GSX-8S.webp",
+                            "details": {
+                                "Engine Type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 776,
+                                "Ground Clearance (mm)": 145,
+                                "Seat Height (mm)": 810,
+                                "Curb Mass (kg)": 202,
+                                "Fuel Tank Capacity (L)": 14
+                            }
+                        },
+                        {
+                            "name": "GSX-S750ZA",
+                            "image": "/images/GSX-S750ZA.avif",
+                            "details": {
+                                "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
+                                "Engine Displacement (CC)": 749,
+                                "Ground Clearance (mm)": 135,
+                                "Seat Height (mm)": 820,
+                                "Curb Mass (kg)": 213,
+                                "Fuel Tank Capacity (L)": 16
+                            }
+                        },
+                        {
+                            "name": "SV650A",
+                            "image": "/images/SV650A.avif",
+                            "details": {
+                                "Engine Type": "4-stroke, liquid-cooled, DOHC, 90º V-twin",
+                                "Engine Displacement (CC)": 645,
+                                "Ground Clearance (mm)": 135,
+                                "Seat Height (mm)": 785,
+                                "Curb Mass (kg)": 198,
+                                "Fuel Tank Capacity (L)": 14.5
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yamaha",
+            "image": "images/Yamaha_Motor_Logo_(full).svg",
+            "description": "Yamaha motorcycles known for their innovation and performance",
+            "children": [
+                {
+                    "name": "supersport",
+                    "description": "High-performance motorcycles designed for speed and agility",
+                    "children": [
+                        {
+                            "name": "YZF-R15M",
+                            "image": "/images/2023_yzf-r15m_wmb_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Entry Level R-Series",
+                                "Engine": "155cc LC4V SOHC FI Engine",
+                                "Features": [
+                                    "Variable Valve Actuation",
+                                    "Dual channel ABS",
+                                    "Traction Control System"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "YZF-R7LA",
+                            "image": "/images/2024_yzf-r7_dpbmc_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Learner Approved Supersport",
+                                "Engine": "Proven CP2 Engine",
+                                "Features": [
+                                    "KYB Sports Suspension",
+                                    "Ultra-narrow Lightweight Chassis",
+                                    "Potent Braking Power"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "YZF-R3",
+                            "image": "/images/2024_yzf-r3_dpbmc_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Everyday Supersport",
+                                "Engine": "321cc Inline Twin Cylinder Engine",
+                                "Features": [
+                                    "Inverted Front Forks",
+                                    "10-Spoke Cast Wheels wtih ABS",
+                                    "Lightweight Chassis"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "YZF-R6",
+                            "image": "/images/2022_yzf-r6_mdnm6_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Razor Sharp Supersport",
+                                "Engine": "Race-ready Specification",
+                                "Features": [
+                                    "Lightweight high-performance engine",
+                                    "Sophisticated electronic control technology",
+                                    "High-specification R1-type front forks"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "YZF-R1M",
+                            "image": "/images/2022_yzf-r1m_bwm2_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Refined CP4 Engine",
+                                "Features": [
+                                    "Advanced Bodywork",
+                                    "Brake Control System",
+                                    "Engine Brake Management"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "maximum torque",
+                    "description": "Motorcycles with high torque for powerful performance",
+                    "children": [
+                        {
+                            "name": "MT-10",
+                            "image": "/images/2022_mt10_pgd_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Hyper Naked",
+                                "Engine": "998cc CP4 Engine",
+                                "Features": [
+                                    "Optimised front & rear suspension",
+                                    "Titanium exhaust",
+                                    "4.2in full-colour TFT display"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "MT-09",
+                            "image": "/images/2022_mt-09_pgd_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Triple The Fun",
+                                "Engine": "889cc CP3 engine",
+                                "Features": [
+                                    "Die-cast aluminium Deltabox",
+                                    "6-axis IMU",
+                                    "New intake and exhaust systems"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "MT-03",
+                            "image": "/images/2022_mt-03_pgd_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Entry Level MT",
+                                "Engine": "321cc parallel twin",
+                                "Features": [
+                                    "Aggressive MT Design",
+                                    "Upside-down front forks",
+                                    "Agile and lightweight"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "scooters",
+                    "description": "Lightweight, fuel-efficient bikes designed for city commuting",
+                    "children": [
+                        {
+                            "name": "XMAX 300",
+                            "image": "/images/2023_czd300a_mdbnm4_aus_003_750x600.ashx",
+                            "details": {
+                                "Description": "Powerful and Efficient Engine",
+                                "Features": [
+                                    "New X-shaped headlight and taillight",
+                                    "4.2inch colour TFT",
+                                    "Garmin Navigation System*"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "TMAX 560",
+                            "image": "/images/2022_xp560adx_mdbnm4_aus_stu_003_750x600.ashx",
+                            "details": {
+                                "Description": "Powerful 560cc Engine",
+                                "Features": [
+                                    "Lightweight chassis",
+                                    "TFT Instruments",
+                                    "New look"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Tricity 300",
+                            "image": "/images/2020_mwd300_bns4_aus_stu_003_v2_750x600.ashx",
+                            "details": {
+                                "Description": "Blue Core Engine",
+                                "Features": [
+                                    "Leaning Multi Wheel Technology",
+                                    "Standing Assist System",
+                                    "Large Underseat Storage"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Triumph",
+            "image": "images/Triumph_Motorcycles_logo_and_claim_2015.svg",
+            "description": "Triumph motorcycles known for their classic designs and modern performance",
+            "children": [
+                {
+                    "name": "MODERN CLASSICS",
+                    "description": "Classic styled motorcycles with modern technology",
+                    "children": [
+                        {
+                            "name": "SCRAMBLER 1200",
+                            "image": "/images/scrambler 1200 x_my24_ash grey_rhs.avif",
+                            "details": {
+                                "Engine": "1160 CC ENGINE",
+                                "Power": "150 PS PEAK POWER",
+                                "Torque": "130 NM PEAK TORQUE"
+                            }
+                        },
+                        {
+                            "name": "SPEED 400",
+                            "image": "/images/speed 400_my24_carnival red_rhs.avif",
+                            "details": {
+                                "Engine": "398 CC ENGINE",
+                                "Torque": "37.5 NM PEAK TORQUE",
+                                "Special Features": [
+                                    "TR SERIES ENGINE",
+                                    "20+ DEDICATED ACCESSORIES"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "BONNEVILLE SPEEDMASTER",
+                            "image": "/images/bonneville_speedmaster_my25_snowdonia_white_rhs_472px.avif",
+                            "details": {
+                                "Engine": "1200 CC ENGINE",
+                                "Torque": "110 NM PEAK TORQUE",
+                                "Power": "90 PS PEAK POWER",
+                                "Service Interval": "10,000 MILES SERVICE"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "ROADSTERS",
+                    "description": "Sporty and agile motorcycles for the road",
+                    "children": [
+                        {
+                            "name": "TRIDENT 660",
+                            "image": "/images/trident_my24_jet black_rhs_472px.avif",
+                            "details": {
+                                "Engine": "660 CC ENGINE",
+                                "Torque": "59 NM PEAK TORQUE",
+                                "Power": "54 PS PEAK POWER",
+                                "Service Interval": "10,000 MILEAGE SERVICE"
+                            }
+                        },
+                        {
+                            "name": "STREET TRIPLE 765",
+                            "image": "/images/street triple r_my25_matt baja orange_rhs_472px.avif",
+                            "details": {
+                                "Engine": "1160 CC ENGINE",
+                                "Power": "150 PS PEAK POWER",
+                                "Torque": "130 NM PEAK TORQUE"
+                            }
+                        },
+                        {
+                            "name": "SPEED TRIPLE 1200 RR",
+                            "image": "/images/speed-triple-1200-rr-red-hopper-storm-grey-rhs-472.avif",
+                            "details": {
+                                "Engine": "1160 CC ENGINE",
+                                "Power": "180 PS PEAK POWER",
+                                "Torque": "125 NM PEAK TORQUE",
+                                "Service Interval": "10,000 MILES SERVICE"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SPECIAL EDITIONS",
+                    "description": "Limited edition motorcycles with unique features",
+                    "children": [
+                        {
+                            "name": "ROCKET 3 STORM",
+                            "image": "/images/rocket_3_r_my24_granite_rhs_472px.avif",
+                            "details": {
+                                "Engine": "2,458 CC ENGINE",
+                                "Torque": "225 NM PEAK TORQUE",
+                                "Power": "182 PS PEAK POWER",
+                                "Service Interval": "10,000 MILES SERVICE"
+                            }
+                        },
+                        {
+                            "name": "ALL-NEW DAYTONA 660",
+                            "image": "/images/daytona 660_my24_satin granite_rhs_472px.avif",
+                            "details": {
+                                "Cylinders": "3",
+                                "Power": "95 PEAK POWER",
+                                "RPM": "12,650",
+                                "Torque": "69 NM"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
