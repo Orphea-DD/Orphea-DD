@@ -1,6 +1,6 @@
 +++
 author = "Ding Ding"
-title = "Motorcycle"
+title = "A glimpse into the world of motorcycles"
 date = "2024-06-03"
 description = " animation is on the way"
 tags = [
@@ -24,8 +24,10 @@ useMath = false
 > ### University Of Waikato
 > 
 > #### COMPX532
+> Convenor: [Prof Mark Apperley](https://profiles.waikato.ac.nz/mark.apperley)
 > 
-> #### Jiahui Ding
+
+> #### Jiahui Ding's project of assignemnt 5
 
 ## 1. Introduction
 
