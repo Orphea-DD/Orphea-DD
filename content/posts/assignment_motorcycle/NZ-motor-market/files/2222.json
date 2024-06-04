@@ -173,7 +173,7 @@
                     "children": [
                         {
                             "name": "HAYABUSA",
-                            "image": "/images/Suzuki/hayabusa.png",
+                            "image": "images/Suzuki/hayabusa.png",
                             "details": {
                                 "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 1340,
@@ -184,7 +184,7 @@
                         },
                         {
                             "name": "GSX-R1000R/ZA",
-                            "image": "/images/Suzuki/GSX1000.png",
+                            "image": "images/Suzuki/GSX1000.png",
                             "details": {
                                 "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 1000,
@@ -202,7 +202,7 @@
                     "children": [
                         {
                             "name": "GSX-S1000GX",
-                            "image": "/images/Suzuki/GSX-S1000.png",
+                            "image": "images/Suzuki/GSX-S1000.png",
                             "details": {
                                 "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 999,
@@ -214,7 +214,7 @@
                         },
                         {
                             "name": "KATANA",
-                            "image": "/images/Suzuki/KATANA.webp",
+                            "image": "images/Suzuki/KATANA.webp",
                             "details": {
                                 "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 999,
@@ -226,7 +226,7 @@
                         },
                         {
                             "name": "GSX-8S",
-                            "image": "/images/Suzuki/GSX-8S.webp",
+                            "image": "images/Suzuki/GSX-8S.webp",
                             "details": {
                                 "Engine Type": "4-stroke, 2-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 776,
@@ -238,7 +238,7 @@
                         },
                         {
                             "name": "GSX-S750ZA",
-                            "image": "/images/Suzuki/GSX-S750ZA.png",
+                            "image": "images/Suzuki/GSX-S750ZA.png",
                             "details": {
                                 "Engine Type": "4-stroke, 4-cylinder, liquid-cooled, DOHC",
                                 "Engine Displacement (CC)": 749,
@@ -250,7 +250,7 @@
                         },
                         {
                             "name": "SV650A",
-                            "image": "/images/Suzuki/SV650A.png",
+                            "image": "images/Suzuki/SV650A.png",
                             "details": {
                                 "Engine Type": "4-stroke, liquid-cooled, DOHC, 90º V-twin",
                                 "Engine Displacement (CC)": 645,
@@ -275,7 +275,7 @@
                     "children": [
                         {
                             "name": "YZF-R15M",
-                            "image": "/images/Yamaha/2023_yzf-r15m_wmb_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2023_yzf-r15m_wmb_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Entry Level R-Series",
                                 "Engine": "155cc LC4V SOHC FI Engine",
@@ -288,7 +288,7 @@
                         },
                         {
                             "name": "YZF-R7LA",
-                            "image": "/images/Yamaha/2024_yzf-r7_dpbmc_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2024_yzf-r7_dpbmc_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Learner Approved Supersport",
                                 "Engine": "Proven CP2 Engine",
@@ -301,7 +301,7 @@
                         },
                         {
                             "name": "YZF-R3",
-                            "image": "/images/Yamaha/2024_yzf-r3_dpbmc_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2024_yzf-r3_dpbmc_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Everyday Supersport",
                                 "Engine": "321cc Inline Twin Cylinder Engine",
@@ -314,7 +314,7 @@
                         },
                         {
                             "name": "YZF-R6",
-                            "image": "/images/Yamaha/2022_yzf-r6_mdnm6_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_yzf-r6_mdnm6_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Razor Sharp Supersport",
                                 "Engine": "Race-ready Specification",
@@ -327,7 +327,7 @@
                         },
                         {
                             "name": "YZF-R1M",
-                            "image": "/images/Yamaha/2022_yzf-r1m_bwm2_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_yzf-r1m_bwm2_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Refined CP4 Engine",
                                 "Features": [
@@ -345,7 +345,7 @@
                     "children": [
                         {
                             "name": "MT-10",
-                            "image": "/images/Yamaha/2022_mt10_pgd_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_mt10_pgd_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Hyper Naked",
                                 "Engine": "998cc CP4 Engine",
@@ -358,7 +358,7 @@
                         },
                         {
                             "name": "MT-09",
-                            "image": "/images/Yamaha/2022_mt-09_pgd_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_mt-09_pgd_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Triple The Fun",
                                 "Engine": "889cc CP3 engine",
@@ -371,7 +371,7 @@
                         },
                         {
                             "name": "MT-03",
-                            "image": "/images/Yamaha/2022_mt-03_pgd_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_mt-03_pgd_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Entry Level MT",
                                 "Engine": "321cc parallel twin",
@@ -390,7 +390,7 @@
                     "children": [
                         {
                             "name": "XMAX 300",
-                            "image": "/images/Yamaha/2023_czd300a_mdbnm4_aus_003_750x600.png",
+                            "image": "images/Yamaha/2023_czd300a_mdbnm4_aus_003_750x600.png",
                             "details": {
                                 "Description": "Powerful and Efficient Engine",
                                 "Features": [
@@ -402,7 +402,7 @@
                         },
                         {
                             "name": "TMAX 560",
-                            "image": "/images/Yamaha/2022_xp560adx_mdbnm4_aus_stu_003_750x600.png",
+                            "image": "images/Yamaha/2022_xp560adx_mdbnm4_aus_stu_003_750x600.png",
                             "details": {
                                 "Description": "Powerful 560cc Engine",
                                 "Features": [
@@ -414,7 +414,7 @@
                         },
                         {
                             "name": "Tricity 300",
-                            "image": "/images/Yamaha/2020_mwd300_bns4_aus_stu_003_v2_750x600.png",
+                            "image": "images/Yamaha/2020_mwd300_bns4_aus_stu_003_v2_750x600.png",
                             "details": {
                                 "Description": "Blue Core Engine",
                                 "Features": [
@@ -439,7 +439,7 @@
                     "children": [
                         {
                             "name": "SCRAMBLER 1200",
-                            "image": "/images/Triumph/scrambler 1200 x_my24_ash grey_rhs.png",
+                            "image": "images/Triumph/scrambler 1200 x_my24_ash grey_rhs.png",
                             "details": {
                                 "Engine": "1160 CC ENGINE",
                                 "Power": "150 PS PEAK POWER",
@@ -448,7 +448,7 @@
                         },
                         {
                             "name": "SPEED 400",
-                            "image": "/images/Triumph/speed 400_my24_carnival red_rhs.png",
+                            "image": "images/Triumph/speed 400_my24_carnival red_rhs.png",
                             "details": {
                                 "Engine": "398 CC ENGINE",
                                 "Torque": "37.5 NM PEAK TORQUE",
@@ -460,7 +460,7 @@
                         },
                         {
                             "name": "BONNEVILLE SPEEDMASTER",
-                            "image": "/images/Triumph/bonneville_speedmaster_my25_snowdonia_white_rhs_472px.png",
+                            "image": "images/Triumph/bonneville_speedmaster_my25_snowdonia_white_rhs_472px.png",
                             "details": {
                                 "Engine": "1200 CC ENGINE",
                                 "Torque": "110 NM PEAK TORQUE",
@@ -476,7 +476,7 @@
                     "children": [
                         {
                             "name": "TRIDENT 660",
-                            "image": "/images/Triumph/trident_my24_jet black_rhs_472px.png",
+                            "image": "images/Triumph/trident_my24_jet black_rhs_472px.png",
                             "details": {
                                 "Engine": "660 CC ENGINE",
                                 "Torque": "59 NM PEAK TORQUE",
@@ -486,7 +486,7 @@
                         },
                         {
                             "name": "STREET TRIPLE 765",
-                            "image": "/images/Triumph/street triple r_my25_matt baja orange_rhs_472px.png",
+                            "image": "images/Triumph/street triple r_my25_matt baja orange_rhs_472px.png",
                             "details": {
                                 "Engine": "1160 CC ENGINE",
                                 "Power": "150 PS PEAK POWER",
@@ -495,7 +495,7 @@
                         },
                         {
                             "name": "SPEED TRIPLE 1200 RR",
-                            "image": "/images/Triumph/speed-triple-1200-rr-red-hopper-storm-grey-rhs-472.png",
+                            "image": "images/Triumph/speed-triple-1200-rr-red-hopper-storm-grey-rhs-472.png",
                             "details": {
                                 "Engine": "1160 CC ENGINE",
                                 "Power": "180 PS PEAK POWER",
@@ -511,7 +511,7 @@
                     "children": [
                         {
                             "name": "ROCKET 3 STORM",
-                            "image": "/images/Triumph/rocket_3_r_my24_granite_rhs_472px.png",
+                            "image": "images/Triumph/rocket_3_r_my24_granite_rhs_472px.png",
                             "details": {
                                 "Engine": "2,458 CC ENGINE",
                                 "Torque": "225 NM PEAK TORQUE",
@@ -521,7 +521,7 @@
                         },
                         {
                             "name": "ALL-NEW DAYTONA 660",
-                            "image": "/images/Triumph/daytona 660_my24_satin granite_rhs_472px.png",
+                            "image": "images/Triumph/daytona 660_my24_satin granite_rhs_472px.png",
                             "details": {
                                 "Cylinders": "3",
                                 "Power": "95 PEAK POWER",
