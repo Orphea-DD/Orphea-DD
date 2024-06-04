@@ -51,7 +51,7 @@ Finally, I made an animated bar chart of the results of MotoGP, one of the top m
 
 [MotoGP Ranking](./MotoGP-Ranking/index.html)
 
-## 3. Data source
+## 3. Data Source
 
 [1]. MotoGP Official Website <https://www.motogp.com/en/world-standing>
 
