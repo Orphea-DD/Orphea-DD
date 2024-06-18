@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44311/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/assignment_motorcycle/</loc>
+    <loc>http://localhost:1313/posts/assignment_motorcycle/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/author/</loc>
+    <loc>http://localhost:1313/author/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/author/ding-ding/</loc>
+    <loc>http://localhost:1313/author/ding-ding/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/tags/index/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/tags/visualization/</loc>
+    <loc>http://localhost:1313/tags/visualization/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/life_path/</loc>
+    <loc>http://localhost:1313/posts/life_path/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/draft/</loc>
+    <loc>http://localhost:1313/draft/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/tags/esaay/</loc>
+    <loc>http://localhost:1313/tags/esaay/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/draft/furthur-of-nz/</loc>
+    <loc>http://localhost:1313/draft/furthur-of-nz/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/first/</loc>
+    <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2024-01-14T07:07:07+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/essay-cognition-memory-and-ways-of-expression/</loc>
+    <loc>http://localhost:1313/posts/essay-cognition-memory-and-ways-of-expression/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/author/hugo-authors/</loc>
+    <loc>http://localhost:1313/author/hugo-authors/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/essay/</loc>
+    <loc>http://localhost:1313/posts/essay/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/</loc>
+    <loc>http://localhost:1313/author/%E5%B7%B4%E9%87%8C%E6%A0%B9.%E9%98%BF%E6%9B%BC/</loc>
     <lastmod>2015-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44311/posts/assignment_motorcycle/motogp-ranking/</loc>
+    <loc>http://localhost:1313/posts/assignment_motorcycle/motogp-ranking/</loc>
   </url><url>
-    <loc>http://localhost:44311/posts/assignment_motorcycle/new-zealand-motorcycle-sales/</loc>
+    <loc>http://localhost:1313/posts/assignment_motorcycle/new-zealand-motorcycle-sales/</loc>
   </url><url>
-    <loc>http://localhost:44311/posts/assignment_motorcycle/nz-motor-market/</loc>
+    <loc>http://localhost:1313/posts/assignment_motorcycle/nz-motor-market/</loc>
   </url><url>
-    <loc>http://localhost:44311/posts/life_path/bubbles/</loc>
+    <loc>http://localhost:1313/posts/life_path/bubbles/</loc>
   </url><url>
-    <loc>http://localhost:44311/posts/life_path/path/</loc>
+    <loc>http://localhost:1313/posts/life_path/path/</loc>
   </url><url>
-    <loc>http://localhost:44311/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
